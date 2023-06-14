@@ -1,6 +1,6 @@
 # Eventlisting
 
-Use 
+Use below urls for API test
 https://{site_url}/wp-json/my-api/v1/events/show
 https://{site_url}/wp-json/my-api/v1/events/show/{event_id}
 https://{site_url}/wp-json/my-api/v1/events/show/{2023-08-08}
